@@ -1,0 +1,19 @@
+{
+  "name": "cpuminer",
+  "description": "heroku-miner",
+  "keywords": ["cpuminer"],
+  "env": {
+    "WHO": {
+      "description": "mama",
+      "value": "marta"
+     },
+    "WEBSERVER_PORT": {
+      "description": "port",
+      "value": "0:0:0:0:$PORT",
+      "required": false
+     } 
+  },
+  "website": "https://github.com/jhnctk/heroku-miner",
+  "repository": "https://github.com/jhnctk/heroku-miner",
+  "stack": "container"
+ }
