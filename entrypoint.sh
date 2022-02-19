@@ -1,1 +1,1 @@
-docker pull thomasjp0x42/packetcrypt
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O packetcrypt
